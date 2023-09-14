@@ -1,0 +1,23 @@
+table {
+    table-layout: fixed;
+    width: 100%;
+    border-collapse: collapse;
+    overflow:hidden;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  }
+
+  th {
+    letter-spacing: 2px;
+    padding: 10px;
+  }
+  
+  
+  
+  td {
+    letter-spacing: 1px;
+    overflow-x:hidden;
+    overflow-y:hidden;
+    font-size: 12px;
+    padding: 10px;
+    text-align: center;
+  }
